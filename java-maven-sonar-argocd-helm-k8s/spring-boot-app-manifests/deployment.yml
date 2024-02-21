@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: hpilli/ultimate-cicd:2
+        image: hpilli/e2e-cicdproj:2
         ports:
         - containerPort: 8080
